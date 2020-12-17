@@ -30,3 +30,11 @@
 #colls{
 	color:pink;
 }
+body{
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+}
+
+.navbar-dark{
+	background: #512DA8;
+}
